@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package kasus2;
-
-/**
- *
- * @author LAB RPL04
- */
 public class Item {
     private String name;
     private Item() {

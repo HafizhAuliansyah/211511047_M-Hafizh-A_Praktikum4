@@ -1,6 +1,5 @@
 
 package kasus1;
-
 public class Inventori {
     Barang[] barangs;
     void initBarang() {
@@ -24,5 +23,4 @@ public class Inventori {
     Inventori beli = new Inventori();
         beli.pengadaan();
     }
-    
 }

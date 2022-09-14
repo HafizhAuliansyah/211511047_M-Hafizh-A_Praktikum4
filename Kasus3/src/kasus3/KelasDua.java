@@ -10,7 +10,5 @@ public class KelasDua {
         System.out.println(6);
         KelasSatu satu = new KelasSatu();
         KelasSatu dua = new KelasSatu(10);
-        
-    
     }
 }

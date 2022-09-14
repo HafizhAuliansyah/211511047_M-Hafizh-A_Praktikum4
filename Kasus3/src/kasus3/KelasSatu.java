@@ -2,7 +2,6 @@
 package kasus3;
 
 public class KelasSatu {
-
     {
         System.out.println(11);
     }

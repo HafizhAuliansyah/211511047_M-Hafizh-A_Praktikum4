@@ -20,5 +20,4 @@ public class Barang {
     public int getStok(){
         return stok;
     }
-    
 }
